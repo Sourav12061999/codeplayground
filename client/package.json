@@ -10,8 +10,32 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mantine/carousel": "^7.6.1",
+    "@mantine/charts": "^7.6.1",
+    "@mantine/code-highlight": "^7.6.1",
+    "@mantine/core": "^7.6.1",
+    "@mantine/dates": "^7.6.1",
+    "@mantine/dropzone": "^7.6.1",
+    "@mantine/form": "^7.6.1",
+    "@mantine/hooks": "^7.6.1",
+    "@mantine/modals": "^7.6.1",
+    "@mantine/notifications": "^7.6.1",
+    "@mantine/nprogress": "^7.6.1",
+    "@mantine/spotlight": "^7.6.1",
+    "@mantine/tiptap": "^7.6.1",
+    "@mui/material": "^5.15.11",
+    "@mui/x-tree-view": "^6.17.0",
+    "@tabler/icons-react": "^2.47.0",
+    "@tiptap/extension-link": "^2.2.4",
+    "@tiptap/react": "^2.2.4",
+    "@tiptap/starter-kit": "^2.2.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-ace": "^10.1.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",

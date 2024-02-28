@@ -1,4 +1,4 @@
-export default {
+module.exporst = {
     plugins: {
         'postcss-preset-mantine': {},
         'postcss-simple-vars': {
